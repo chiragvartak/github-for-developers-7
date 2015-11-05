@@ -4,3 +4,4 @@
 * I am from: India
 * A favorite food: Butter Chicken
 * A hobby: Programming
+* Favorite Color: Green
